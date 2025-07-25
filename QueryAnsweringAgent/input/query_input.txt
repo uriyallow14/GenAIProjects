@@ -1,0 +1,5 @@
+query_name:class-teams
+data_file: class.csv
+description:This csv file describes students’ grades. Each line is of the form: First,Last,Year,Class,Grade
+data_file: teams.csv
+description:This csv file describes students who are on school teams. Each line is of the form: Team,Last,First,Rank

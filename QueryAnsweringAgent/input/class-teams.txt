@@ -1,0 +1,3 @@
+Find the student that ranks 1, 2 or 3 on his/her school team and that is in the top quarter total grade point average of all students.
+If there is more than one student, return the one with the highest grade point average.
+The program should return only a JSON structure with the following fields: First-name,Last-name,Grade-point-average,team,rank.
